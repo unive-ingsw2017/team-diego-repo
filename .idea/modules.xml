@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Datadroid/datadroid.lib.iml" filepath="$PROJECT_DIR$/Datadroid/datadroid.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingsw-2017-project.iml" filepath="$PROJECT_DIR$/ingsw-2017-project.iml" />
     </modules>
   </component>
 </project>
