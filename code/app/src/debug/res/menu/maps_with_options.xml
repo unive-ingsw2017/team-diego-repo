@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MENU_SETTINGS"
+        android:title="Settings" />
+    <item
+        android:id="@+id/MENU_TUTORIAL"
+        android:title="Tutorial" />
+    <item android:id="@+id/MENU_GLOSSARY"
+        android:title="Glossary" />
+    <item android:id="@+id/MENU_INFO"
+        android:title="About Us"
+         />
+<!--
+    <item android:id="@+id/search"
+        android:title="@string/search_title"
+        android:showAsAction="always|collapseActionView"
+        android:actionViewClass="android.widget.SearchView" />
+-->
+</menu>
